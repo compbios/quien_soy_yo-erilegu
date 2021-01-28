@@ -9,7 +9,7 @@ Bogotá
 Estudiante
 # Pasatiempos
 Viajar
-:simple_smile:
+
 
 
  
