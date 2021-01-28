@@ -1,15 +1,14 @@
 
-# Datos personales
+# ***Información personal***
 ## Nombre
 Erika León
-## Cuidad de residencia
+## Cuidad de nacimiento
 Bogotá
-# Datos académicos
+# ***Información académica***
 ## Profesión
 Estudiante
-# Trabajo actual
-IETS
 # Pasatiempos
 Viajar
+![Sin titulo](pictures/avatar.png)
 
  
