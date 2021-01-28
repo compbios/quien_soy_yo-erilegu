@@ -9,6 +9,6 @@ Bogotá
 Estudiante
 # Pasatiempos
 Viajar
-![Sin titulo](pictures/avatar.png)
+![Con titulo](pictures/avatar.png "titulo")
 
  
